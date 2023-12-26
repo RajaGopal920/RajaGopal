@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **Python Data Science**
+- 🌱 I’m currently learning **Data Science Using Python**
 
 - 👯 I’m looking to collaborate on **fullstack development**
 
