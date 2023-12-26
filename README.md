@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **frontend**
 
-- 💬 Ask me about **java,python,c,html,css**
+- 💬 Ask me about **python,c,java,html,css**
 
 - 📫 How to reach me **2001srajgopal@gmail.com**
 
